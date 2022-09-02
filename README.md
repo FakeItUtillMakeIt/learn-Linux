@@ -7,7 +7,7 @@
 [1.linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)
 
 ## 三、GDB调试
-[1.gdb调试]
+1.gdb调试
 ![image](https://user-images.githubusercontent.com/30925114/188102697-ac64bdfd-6927-4e17-9f7e-07eb9fe58e80.png)
 
 ## 三、Linux源码解读
