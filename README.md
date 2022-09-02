@@ -6,12 +6,15 @@
 ## 二、Linux命令大全
 [1.linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)
 
-## 三、GDB调试
+## 三、GCC常用命令选项
+[1.gcc常用命令选项](https://www.runoob.com/w3cnote/gcc-parameter-detail.html)
+
+## 四、GDB调试
 1.gdb调试
 启动gdb调试之前必须使用gcc -g ./XXX.c进行调试编译才可进入调试模式
 ![image](https://user-images.githubusercontent.com/30925114/188102697-ac64bdfd-6927-4e17-9f7e-07eb9fe58e80.png)
 
-## 三、Linux源码解读
+## 五、Linux源码解读
 [1.linux源码解读](https://github.com/FakeItUtillMakeIt/flash-linux0.11-talk)
 
 
