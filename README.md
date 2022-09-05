@@ -19,7 +19,12 @@
 14.ctrl+n自动补全</br>
 ## 二、Linux命令大全
 [1.linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)
-
+1.vi/vim：打开vim编辑器</br>
+2.ls/ll：显示当前目录内容</br>
+3.less/more：查看文件内容</br>
+4.touch：创建文件</br>
+5.mv：移动文件，rm：删除文件 rm -r 逐级删除</br>
+6.cp：拷贝文件</br>
 ## 三、GCC常用命令选项
 [1.gcc常用命令选项](https://www.runoob.com/w3cnote/gcc-parameter-detail.html)
 
