@@ -12,10 +12,11 @@
 7.nx/X：向后或向前删除字符</br>
 8.ndd/D：剪切n行/剪切后留行</br>
 9./word：向下搜索字符串，?/word：向上搜索字符串，在搜索模式下可使用n/N向下或向上继续搜索</br>
-10.:n1,n2s/word1/word2/g n1 与 n2 为数字。在第 n1 与 n2 行之间寻找 word1 这个字符串，并将该字符串取代为 word2 
-11.:set nu显示行号
-12.0/HOME，$/END跳转首字母和尾字母
-13.:1,$s/word1/word2/gc 从第一行到最后一行寻找 word1 字符串，并将该字符串取代为 word2 ！且在取代前显示提示字符给用户确认 (confirm) 是否需要取代
+10.:n1,n2s/word1/word2/g n1 与 n2 为数字。在第 n1 与 n2 行之间寻找 word1 这个字符串，并将该字符串取代为 word2 </br>
+11.:set nu显示行号</br>
+12.0/HOME，$/END跳转首字母和尾字母</br>
+13.:1,$s/word1/word2/gc 从第一行到最后一行寻找 word1 字符串，并将该字符串取代为 word2 ！且在取代前显示提示字符给用户确认 (confirm) 是否需要取代</br>
+14.ctrl+n自动补全</br>
 ## 二、Linux命令大全
 [1.linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)
 
