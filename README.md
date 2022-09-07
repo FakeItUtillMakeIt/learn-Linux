@@ -1,5 +1,5 @@
 # learnLinux
-# 操作系统本质上就是个中断驱动的死循环！！！
+# [操作系统本质上就是个中断驱动的死循环！！！](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3NDE0Ng==&mid=2247500983&idx=1&sn=ad4c430823c975df97f13de3fbe8c66e&chksm=c2c5be1af5b2370cad4ce3218c5294feee4ae2e4d28804398c1dc8ac252c8dfafbe419ccf58c&cur_album_id=2123743679373688834&scene=189#wechat_redirect)
 ## learn Linux
 ## 一、linux vi编辑器的使用
 [1.菜鸟教程VIM](https://www.runoob.com/linux/linux-vim.html)
