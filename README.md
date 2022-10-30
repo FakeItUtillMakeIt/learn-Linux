@@ -31,7 +31,7 @@
 
 ## 四、GDB调试
 1.gdb调试
-启动gdb调试之前必须使用gcc -g ./XXX.c进行调试编译才可进入调试模式
+启动gdb调试之前必须使用gcc/g++ -g ./XXX.c进行调试编译才可进入调试模式
 ![image](https://user-images.githubusercontent.com/30925114/188102697-ac64bdfd-6927-4e17-9f7e-07eb9fe58e80.png)
 
 ## 五、Linux源码解读
