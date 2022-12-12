@@ -37,5 +37,6 @@
 ## 五、Linux源码解读
 [1.linux源码解读](https://github.com/FakeItUtillMakeIt/flash-linux0.11-talk)
 
-## 六.webserver
+## 六、webserver
 
+## 七、数据库可视化工具Navicat
